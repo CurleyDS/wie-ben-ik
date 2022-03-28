@@ -1,3 +1,5 @@
+# Notice: Deze repository is van mijn vorige opleiding!
+
 ## Wie ben ik
 Tijdens deze opdracht ga je het eerste begin maken aan je digitale portfolio. 
 
